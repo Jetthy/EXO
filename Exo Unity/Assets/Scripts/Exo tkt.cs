@@ -35,7 +35,17 @@ public class Exotkt : MonoBehaviour
     //        f
     //        gfdgdgs
     //}
-
+    //kqjbfflskjlhdfbsflkj
+    //    $
+    //    gg
+    //    sd
+    //    private void OnCanvasGroupChanged()
+    //{
+    //    sfieldg
+    //        s
+    //        dg
+    //        sdgsg
+    //}
     //}
 
     // Update is called once per frame
